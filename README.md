@@ -2,7 +2,8 @@
 - 👀 I’m interested in Build Apps and Exploring new technology
 - 🌱 I’m currently learning Machine learning basics
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on Linked or Instagram 
+- 📫 You can Ping me on Linked 
+-     LinkedIN - www.linkedin.com/in/ksheetiz-agrahari-8719b1145 
 
 <!---
 ksheetiz/ksheetiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
