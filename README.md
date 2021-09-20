@@ -8,7 +8,7 @@
 -     LinkedIN - www.linkedin.com/in/ksheetiz-agrahari-8719b1145 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 ksheetiz/ksheetiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
