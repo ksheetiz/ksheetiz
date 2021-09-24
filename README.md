@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @ksheetiz
 - 👀 I’m interested in Build Apps and Exploring new technology
-- 🌱 I’m currently learning Machine learning basics
+- 🌱 I’m currently learning Machine learning basics and Data Structures
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can Ping me on Linked 
 -     LinkedIN - www.linkedin.com/in/ksheetiz-agrahari-8719b1145 
