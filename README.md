@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Satellite Image Analysis**
 
-- 🌱 I’m currently learning **Android Development, Machine learning**
+- 🌱 I’m currently learning **Web Development and Machine learning**
 
 - 📫 How to reach me **ksheetiz43@gmail.com**
 
