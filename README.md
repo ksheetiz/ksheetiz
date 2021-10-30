@@ -12,6 +12,7 @@
 
 - 📫 How to reach me **ksheetiz43@gmail.com**
 
+- 💜 Interested in Playing Cricket,reading novels,listening music and coding my way out 🛣️.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ksheetiz agrahari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ksheetiz agrahari" height="30" width="40" /></a>
