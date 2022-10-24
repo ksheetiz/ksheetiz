@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksheetiz&label=Profile%20views&color=0e75b6&style=flat" alt="ksheetiz" /> </p>
 
-- 🔭 I’m currently working on **NewsBites-An daily dose of News**
+- 🔭 I’m currently working on **Reactjs and Blockchain Technology**
 
 - 🌱 I’m currently learning **Web Development and Machine learning**
 
